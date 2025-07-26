@@ -28,6 +28,10 @@ header {
 header h1 {
   font-size: 1.8rem;
 }
+h1 a{
+  color: #fff;
+  text-decoration: none;
+}
 
 nav a {
   color: #fff;
